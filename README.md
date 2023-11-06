@@ -35,7 +35,8 @@ This is a Java-based project using the Swing library that interacts with a MySQL
 
 
 
-#Database Queries.
+#Database.
+
 ![image](https://github.com/Sourabhshintre/AadharCard-Management-System-Identity-Boost-/assets/96312514/79127417-cdd4-4207-83ca-71582b5d80cc)
 
 
